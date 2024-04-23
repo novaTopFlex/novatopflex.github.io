@@ -1,2 +1,2 @@
-# novatopflex.gitpod.io
+# novatopflex.github.io
 This is the personal and organizational website for novaTopFlex and the associated community.
